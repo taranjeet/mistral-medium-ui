@@ -1,6 +1,6 @@
-# Embedchain Admin
+# Embedchain Mistral Medium Demo
 
-Welcome to the Embedchain Admin repository. This toolkit helps you build a full-stack RAG (Retrieve, Append, Generate) application with a focus on simplicity and functionality, powered by Embedchain.
+This repo is a full stack RAG application built using [embedchain cli](https://docs.embedchain.ai/get-started/full-stack). It uses Mistral models.
 
 ## 🚀 Features
 
@@ -70,3 +70,6 @@ You are all set now. Open http://localhost:3000 to view the chat UI.
 ### Data sources
 
 <img src="assets/add_data.png" height="600px" />
+
+
+# Built with ❤️ by [Embedchain](https://github.com/embedchain/embedchain)
